@@ -15,7 +15,7 @@ current or LTS versions is fine
 
 # put the bot token at the bottom where it says `client.login('super secret token')`
 
-# type tac bot.ts in command prompt
+# type tsc bot.ts in command prompt
 
 # type node bot.js in command pronpt
 
